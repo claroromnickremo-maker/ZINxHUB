@@ -1,0 +1,2 @@
+# ZINxHUB
+a script lol 
